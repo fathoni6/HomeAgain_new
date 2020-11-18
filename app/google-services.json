@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049347398052",
+    "firebase_url": "https://homeagain-274b0.firebaseio.com",
+    "project_id": "homeagain-274b0",
+    "storage_bucket": "homeagain-274b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049347398052:android:b9bf684075a309d1bb8931",
+        "android_client_info": {
+          "package_name": "com.example.homeagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049347398052-7eo3vr42alamqf91j7g4uh08pf8vaap3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLW-vOHdiv7PIgFvgeiaREiEarYHATKTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049347398052-7eo3vr42alamqf91j7g4uh08pf8vaap3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
